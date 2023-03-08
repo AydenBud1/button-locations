@@ -11,3 +11,40 @@ a {
     color: inherit; 
     text-decoration: none; 
 } 
+#Index1:hover {
+    background-color: orange;
+    
+}#Index2:hover {
+    background-color: magenta;
+    
+}#Index3:hover {
+    background-color: purple;
+    
+}
+#test1:hover {
+    color: aqua;
+}
+#test2:hover {
+    color: red;
+}
+#test3:hover {
+    color: blue;
+}
+#test4 {
+    background-color: gold;
+}
+#test5 {
+    color: rgb(195, 0, 255);
+}
+#test6 {
+    color: rgb(0, 255, 34);
+}
+#test7 {
+    background-color: rgb(107, 102, 73);
+}
+#test8 {
+    background-color: rgb(64, 12, 80);
+}
+#test9 {
+    background-color: rgb(129, 211, 140);
+}
